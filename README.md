@@ -1,27 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
@@ -57,17 +35,14 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails] <a name="about-project"></a>
+# 📖 Hello Rails <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello Rails]** is just a simple page that displays 'Hello Rails' 
+**[Hello Rails]** 
+> Is just a simple page that displays 'Hello Rails'. This page is built as my first trial in RoR (noting fancy😄)
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -99,8 +74,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -110,7 +83,11 @@ In order to run this project you need:
 - Ruby on Rails
 - PostgreSql
 
-Example command:
+> Visit this [link](https://www.ruby-lang.org/en/documentation/installation/) on how to install Ruby for different OS's.
+
+> Visit this [link](https://www.postgresql.org/download/) on how to install PostgreSQL.
+
+After installing Ruby you can install rails by using the following command:
 
 ```sh
  gem install rails
