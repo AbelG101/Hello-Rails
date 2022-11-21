@@ -37,7 +37,7 @@
 
 # 📖 Hello Rails <a name="about-project"></a>
 
-**[Hello Rails]** 
+**Hello Rails** 
 > Is just a simple page that displays 'Hello Rails'. This page is built as my first trial in RoR (noting fancy😄)
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -137,7 +137,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+- N/A
 
 <!--
 Example:
