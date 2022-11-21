@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 32px;
+  background-color: #1f1f1f;
+ }
+
+ .heading, .name {
+  background-image: conic-gradient(
+    #7153c5 0%, #7153c5 33%, #ff5635 33%, #ff5635 66%, #ffbb00 66%, #ffbb00 99%
+  );
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+ }
+
+ .heading {
+  font-size: 70px;
+  font-weight: 600;
+ }
